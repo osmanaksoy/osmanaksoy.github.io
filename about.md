@@ -1,20 +1,20 @@
 ---
 layout: page
-title: About
+title: Hakkında
 permalink: /about/
 ---
 
-## Education
+## Eğitim
 
 * Uludağ Üniversitesi Makine Mühendisliği Yüksek Lisans - Termodinamik Anabilim Dalı
 * Balıkesir Üniversitesi Makine Mühendisliği Lisans
 * Hochschule Darmstadt University of Applied Sciences - Erasmus Öğrencisi
 
-## Roles
+## Deneyimler
 
 * Yarış Kabin - Kalite Güvence Mühendisi
 * Türk Silahlı Kuvvetleri - Makine Mühendisi
 
-## Contact me
+## İletişim
 
 [muhammedosmanaksoy@gmail.com](mailto:muhammedosmanaksoy@gmail.com)
